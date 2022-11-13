@@ -9,6 +9,12 @@ I do my best to share what I'm learning so you'll find some well-documented usef
 - 👩‍💻  More about me: 
         [LinkedIn](https://www.linkedin.com/in/anneglienke/) /
         [Medium](anneglienke.medium.com)
+        
+Repository naming conventions:
+- `challenge`: these are the non-confidential coding challenges I did while looking for a job 
+- `DE`: Data Engineering
+- `DA`: Data Analysis
+- `101`: these are exploratory repos I create when I'm studying something new from scratch
 
 <center>
 <table>
