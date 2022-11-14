@@ -12,9 +12,9 @@ I do my best to share what I'm learning so you'll find some well-documented usef
         
 Repository naming conventions:
 - `challenge`: prefix to identify non-confidential coding challenges I did 
+- `101`: sufix to identify exploratory repos I create when I'm studying something new from scratch
 - `DE`: Data Engineering
 - `DA`: Data Analysis
-- `101`: sufix to identify exploratory repos I create when I'm studying something new from scratch
 
 <center>
 <table>
