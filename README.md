@@ -15,6 +15,7 @@ Repository naming conventions:
 - `101`: sufix to identify exploratory repos I create when I'm studying something new from scratch
 - `DE`: Data Engineering
 - `DA`: Data Analysis
+- `project`: pet projects
 
 <center>
 <table>
