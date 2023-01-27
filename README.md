@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Anne Glienke and this is my GitHub profile, a place where you'll find some private commits and a lot of unfinished public repos. 😄
-I do my best to share what I'm learning so you'll find some well-documented useful repos too, don't worry.  
+I'm Anne Glienke and this is my GitHub profile. I do my best to share what I'm learning and keep well-documented repos. I hope you find some useful around here! 😄
 
 - 💻  Data Engineering, former Data Analyst
 - 🏢  Currently working for [Nuri](https://nuri.com/)
