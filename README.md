@@ -2,7 +2,7 @@
 
 I'm Anne Glienke and this is my GitHub profile. I do my best to share what I'm learning and keep well-documented repos. I hope you find something useful around here! 😄
 
-- 💻  Data Engineering, former Data Analyst
+- 💻  Data Engineer, former Data Analyst
 - 🏢  Currently working for [Nuri](https://nuri.com/)
 - 🌎  Based in Berlin, Germany
 - 👩‍💻  More about me: 
