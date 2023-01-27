@@ -22,8 +22,8 @@ Extra:
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=anneglienke&theme=vue&count_private=true"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneglienke&hide=html&layout=compact&theme=vue&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anneglienke&theme=vue&count_private=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anneglienke&hide=html&layout=compact&theme=vue&count_private=true" /></td>
     </tr>   
 </table>
 </center> 
