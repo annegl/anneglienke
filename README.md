@@ -17,6 +17,9 @@ Repository naming conventions:
 - `DA`: Data Analysis
 - `project`: pet projects
 
+Extra:
+- [repo em português com textos que eu escrevi sobre transição de carreira, trabalho no exterior e dados](https://github.com/anneglienke/meus_dois_centavos_sobre_coisas)
+
 <center>
 <table>
     <tr>
