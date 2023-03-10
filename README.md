@@ -4,7 +4,7 @@ I'm Anne Glienke and this is my GitHub profile. I do my best to share what I'm l
 
 - 💻  Data Engineer, former Data Analyst
 - 🏢  Currently working for [Nuri](https://nuri.com/)
-- 🌎  Based in Berlin, Germany
+- 🌎  Based in London, England
 - 👩‍💻  More about me: 
         [LinkedIn](https://www.linkedin.com/in/anneglienke/) /
         [Medium](anneglienke.medium.com)
