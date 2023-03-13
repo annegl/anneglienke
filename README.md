@@ -7,7 +7,7 @@ I'm Anne Glienke and this is my GitHub profile. I do my best to share what I'm l
 - 🌎  Based in London, England
 - 👩‍💻  More about me: 
         [LinkedIn](https://www.linkedin.com/in/anneglienke/) /
-        [Medium](anneglienke.medium.com)
+        [Medium](https://anneglienke.medium.com/)
         
 Repository naming conventions:
 - `challenge`: prefix to identify non-confidential coding challenges I did 
