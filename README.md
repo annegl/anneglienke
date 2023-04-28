@@ -3,7 +3,7 @@
 I'm Anne Glienke and this is my GitHub profile. I do my best to share what I'm learning and to keep well-documented repos. I hope you find something useful around here! 😄
 
 - 💻  Data Engineer, former Data Analyst
-- 🏢  Currently working for [Nuri](https://nuri.com/)
+- 🏢  Currently working for [Reach PLC](https://www.reachplc.com/)
 - 🌎  Based in London, England
 - 👩‍💻  More about me: 
         [LinkedIn](https://www.linkedin.com/in/anneglienke/) /
