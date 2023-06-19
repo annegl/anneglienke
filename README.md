@@ -11,7 +11,7 @@ I'm Anne Glienke and this is my GitHub profile. I do my best to share what I'm l
         
 Repository naming conventions:
 - `challenge`: prefix to identify non-confidential coding challenges I worked on
-- `101`: prefix to identify exploratory repos I create when I'm studying something new from scratch
+- `101`: prefix to identify exploratory repos I created when learning something new 
 - `DE`: Data Engineering
 - `DA`: Data Analysis
 - `project`: pet projects
