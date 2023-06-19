@@ -10,7 +10,7 @@ I'm Anne Glienke and this is my GitHub profile. I do my best to share what I'm l
         [Medium](https://anneglienke.medium.com/)
         
 Repository naming conventions:
-- `challenge`: prefix to identify non-confidential coding challenges I worked on
+- `challenge`: prefix to identify non-confidential coding challenges I worked on. I only post the ones that were approved but they're not necessarily from companies I've joined.
 - `101`: prefix to identify exploratory repos I created when learning something new 
 - `DE`: Data Engineering
 - `DA`: Data Analysis
